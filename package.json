@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/juanca/stylelint-import#readme",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
   "optionalDependencies": {}
 }
