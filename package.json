@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-import",
+  "version": "0.0.0",
+  "description": "Ensures imported file paths are well-defined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanca/stylelint-import.git"
+  },
+  "keywords": [
+    "stylelint",
+    "import"
+  ],
+  "author": "Juan Carlos Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanca/stylelint-import/issues"
+  },
+  "homepage": "https://github.com/juanca/stylelint-import#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
