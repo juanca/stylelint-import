@@ -8,6 +8,25 @@ Ensure each `@import` is well-defined (before compilation).
 [![NPM version](http://img.shields.io/npm/v/stylelint-import.svg)](https://www.npmjs.org/package/stylelint-import)
 [![CircleCI status](https://circleci.com/gh/juanca/stylelint-import.svg?style=shield)](https://circleci.com/gh/juanca/stylelint-import)
 
+## Example usage
+
+1. Install
+
+```
+npm install stylelint-import --save-dev
+```
+
+2. Configure
+
+```
+plugins: [
+  'stylelint-import',
+],
+rules: {
+  'import/rule': true,
+},
+```
+
 ## Maintainers
 
 1. Install: `npm install`
