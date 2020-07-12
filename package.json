@@ -1,6 +1,6 @@
 {
   "name": "stylelint-import",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Ensures imported file paths are well-defined",
   "main": "index.js",
   "scripts": {
