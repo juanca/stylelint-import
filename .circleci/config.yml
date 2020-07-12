@@ -10,11 +10,11 @@ jobs:
       - node/with-cache:
           steps:
             - run: npm install
-            - run: npm test9
-            - run: npm test10
-            - run: npm test11
-            - run: npm test12
-            - run: npm test13
+            - run: npm run test9
+            - run: npm run test10
+            - run: npm run test11
+            - run: npm run test12
+            - run: npm run test13
 workflows:
     build-and-test:
       jobs:
